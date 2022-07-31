@@ -1,0 +1,6 @@
+venv
+__pycache__
+.ipynb_checkpoints
+datasets/horse2zebra
+datasets/faces_dataset_small
+datasets/original_sketch
