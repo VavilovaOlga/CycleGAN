@@ -39,7 +39,8 @@ $ python3 train.py
 ```
 ```text
 optional arguments:
-  --dataset DATASET                      dataset name. Possible values: horse2zebra, photo2portrait. Default: horse2zebra.
+  --dataset DATASET                      dataset name. Possible values: horse2zebra, photo2portrait.
+                                         Default: horse2zebra.
   --epochs N                             number of epochs. Default 100.
   --load_weights_path LOAD_WEIGHTS_PATH  path to weights to continuer training. Default None.
   --lr LR                                lerning rate. Default 0.0002.
